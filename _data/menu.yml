@@ -25,13 +25,6 @@ entries:
       - title: "<a href='https://tproger.ru/problems/primery-zadach-s-sobesedovanija-na-poziciju-middle-ruby-razrabotchika/' target='_blank'>Interview questions for Ruby Middle developer</a>"
       - title: "<a href='https://digital-report.ru/do-you-speak-english-govorit-li-po-anglijski-russkoe-it/' target='_blank'>Comments about English language knowledge in Russian IT</a>"
 
-  - title: Contacts
-    entries:
-      - title: "<a href='mailto:neodelf@gmail.com'>write an email</a>"
-      - title: "<a href='https://github.com/Neodelf' target='_blank'>inspect the github</a>"
-      - title: "<a href='https://t.me/neodelf' target='_blank'>text a telegram</a>"
-      - title: "<a href='https://instagram.com/neodelf' target='_blank'>see my instagram</a>"
-
 #entries:
 #  - title: info
 #    entries:
