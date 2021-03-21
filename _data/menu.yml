@@ -5,11 +5,29 @@ entries:
   - title: Family Man
   - title: Software Engineer
   - title: Open Source committer
+    entries:
+      - title: lecter, rails, rubocop, ruby-style-guide, bootsnap, activeadmin
   - title: Speaker
+    entries:
+      - title: Conferences
+        entries:
+          - title: "<a href='https://www.youtube.com/watch?v=WNbnxuOOncM' target='_blank'>Ruby VM</a>"
+          - title: "<a href='https://www.youtube.com/watch?v=kPtP0Heh7s8' target='_blank'>How to ingestigate legacy code</a>"
+      - title: Meetups
+        entries:
+          - title: "<a href='https://www.youtube.com/watch?v=WywsoH0kRCU' target='_blank'>How to do code review without conflicts</a>"
+          - title: "<a href='https://www.youtube.com/watch?v=kkDlF9IGih4' target='_blank'>Short story about caching</a>"
+  - title: Mentor
+    entries:
+      - title: "<a href='https://youtu.be/GRo6Fw2Jwkk' target='_blank'>RSpec for beginners (For https://pasv.us/en) </a>"
   - title: Writer
+    entries:
+      - title: "<a href='https://tproger.ru/problems/primery-zadach-s-sobesedovanija-na-poziciju-middle-ruby-razrabotchika/' target='_blank'>Interview questions for Ruby Middle developer</a>"
+      - title: "<a href='https://digital-report.ru/do-you-speak-english-govorit-li-po-anglijski-russkoe-it/' target='_blank'>Comments about English language knowledge in Russian IT</a>"
+
   - title: Contacts
     entries:
-      - title: "<a href='mailto:neodelf@gmail.com' target='_blank'>write an email</a>"
+      - title: "<a href='mailto:neodelf@gmail.com'>write an email</a>"
       - title: "<a href='https://github.com/Neodelf' target='_blank'>inspect the github</a>"
       - title: "<a href='https://t.me/neodelf' target='_blank'>text a telegram</a>"
       - title: "<a href='https://instagram.com/neodelf' target='_blank'>see my instagram</a>"
