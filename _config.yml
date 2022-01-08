@@ -4,7 +4,7 @@ email: neodelf@gmail.com # email of site's author
 #url: https://neodelf.dev # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <a href='mailto:neodelf@gmail.com'>email</a> <a href='https://github.com/Neodelf' target='_blank'>github</a> <a href='https://t.me/neodelf' target='_blank'>telegram</a> <a href='https://instagram.com/neodelf' target='_blank'>instagram</a>
+  <a href='mailto:neodelf@gmail.com'>email</a> <a href='https://www.linkedin.com/in/neodelf/' target='_blank'>linkedin</a> <a href='https://github.com/Neodelf' target='_blank'>github</a> <a href='https://t.me/neodelf' target='_blank'>telegram</a> <a href='https://instagram.com/neodelf' target='_blank'>instagram</a>
 
 permalink: /:slug.html
 
